@@ -1,0 +1,31 @@
+{
+  "name": "personal-site",
+  "description": "Cristian Granda's personal website",
+  "scripts": {
+    "dev": "watch \"yarn build\" articles pages",
+    "build:dev": "node ../contentz/cli.js build",
+    "build": "contentz build",
+    "social:dev": "node ../contentz/cli.js social",
+    "social": "contentz social",
+    "write": "contentz write",
+    "start": "serve public -p 3000"
+  },
+  "keywords": [
+    "contentz",
+    "blog",
+    "personal-website",
+    "personal-site",
+    "cristianbgp"
+  ],
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:cristianbgp/personal-site.git",
+  "author": "Cristian Granda <cristian.granda.pastor@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "contentz": "^3.1.0"
+  },
+  "devDependencies": {
+    "serve": "^10.1.2"
+  }
+}
