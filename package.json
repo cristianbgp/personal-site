@@ -23,7 +23,7 @@
   "author": "Cristian Granda <cristian.granda.pastor@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "contentz": "^3.1.0"
+    "contentz": "^3.13.2"
   },
   "devDependencies": {
     "serve": "^10.1.2"
