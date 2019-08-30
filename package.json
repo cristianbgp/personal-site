@@ -22,10 +22,14 @@
   "repository": "git@github.com:cristianbgp/personal-site.git",
   "author": "Cristian Granda <cristian.granda.pastor@gmail.com>",
   "license": "MIT",
+  "homepage": "https://cristianbgp.com",
   "dependencies": {
+    "@contentz/social": "^3.14.1",
+    "@contentz/write": "^3.13.2",
     "contentz": "^3.14.1"
   },
   "devDependencies": {
-    "serve": "^10.1.2"
+    "emotion": "^10.0.14",
+    "serve": "^11.1.0"
   }
 }
