@@ -30,7 +30,6 @@
     "contentz": "^3.14.1"
   },
   "devDependencies": {
-    "emotion": "^10.0.14",
     "serve": "^11.1.0"
   }
 }
