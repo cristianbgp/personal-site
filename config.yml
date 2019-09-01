@@ -8,5 +8,8 @@ email: cristian.granda.pastor@gmail.com
 social:
   github: cristianbgp
   twitter: cristianbgp
+navigation:
+  - name: Projects
+    path: /projects/
 incremental: false
 analytics: UA-139257083-1
