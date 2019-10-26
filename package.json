@@ -24,12 +24,12 @@
   "license": "MIT",
   "homepage": "https://cristianbgp.com",
   "dependencies": {
-    "@contentz/build": "^1.0.2",
+    "@contentz/build": "^2.5.1",
     "@contentz/social": "^3.14.1",
     "@contentz/write": "^3.13.2",
     "contentz": "^3.14.1"
   },
   "devDependencies": {
-    "serve": "^11.1.0"
+    "serve": "^11.2.0"
   }
 }
