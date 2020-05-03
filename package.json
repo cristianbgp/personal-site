@@ -24,7 +24,7 @@
   "license": "MIT",
   "homepage": "https://cristianbgp.com",
   "dependencies": {
-    "@contentz/build": "^2.5.2",
+    "@contentz/build": "^2.5.4",
     "@contentz/social": "^3.14.1",
     "@contentz/write": "^3.13.2",
     "contentz": "^3.14.1"
