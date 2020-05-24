@@ -4,7 +4,7 @@
     "label": "Software Engineer",
     "email": "cristian.granda.pastor@gmail.com",
     "website": "https://cristianbgp.com",
-    "summary": "Software Engineer and Game Designer",
+    "summary": "Software Engineer / Game Designer",
     "location": {
       "city": "Lima",
       "region": "Perú"
@@ -25,9 +25,16 @@
   "work": [
     {
       "company": "Able",
+      "position": "Software Engineer",
+      "website": "https://able.co",
+      "startDate": "2020-05-20"
+    },
+    {
+      "company": "Able",
       "position": "Apprentice Software Engineer",
       "website": "https://able.co",
-      "startDate": "2019-09-02"
+      "startDate": "2019-09-02",
+      "endDate": "2020-05-19"
     },
     {
       "company": "Codeable",
