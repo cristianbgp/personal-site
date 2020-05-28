@@ -3,9 +3,7 @@
   "description": "Cristian Granda's personal website",
   "scripts": {
     "dev": "watch \"yarn build\" articles pages",
-    "build:dev": "node ../contentz/cli.js build",
     "build": "contentz build",
-    "social:dev": "node ../contentz/cli.js social",
     "social": "contentz social",
     "write": "contentz write",
     "start": "serve public -p 3000"
